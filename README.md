@@ -26,6 +26,7 @@ This app is fully made in KOTLIN language. The following concepts have been used
 *Moshi: It is a modern JSON library for Android, Java and Kotlin basically it is helpful to parse JSON into Java and Kotlin.
 
 *Data Binding: For declaratively bind UI components in layouts to data sources.
+ **APK :** Download .apk file from https://github.com/Satyam-BIT24/Android-Study-Jams/tree/main/App/build/apk .
 
 **Future Scope :**
 In this app we can also add option to contact experts in the agriculture field and then we can add Agronomy/Agribusiness News & Updates and many more features can be added to this app.
